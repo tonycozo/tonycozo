@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonycozo
+- 👋 Hi, I’m @tonycozo, Kyungpook National University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
