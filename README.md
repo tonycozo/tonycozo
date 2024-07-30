@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonycozo, Kyungpook National University
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding C, Python, Java, ROS
+- 🌱 I’m currently learning coding C, Python, Java, ROS, Pycharm(Anaconda interpreter), matlab
 - 💞️ I’m looking to collaborate on Robot AI
 - 📫 How to reach me
   tony81071975@gmail.com
